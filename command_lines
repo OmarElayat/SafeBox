@@ -1,0 +1,6 @@
+./bin/safebox --command export --input-file encrypted.txt --output-file decrypted.txt --working-dir /home/omarelayat/Desktop/safebox/output --shreds 5 --block-size 1024 --key-file /home/omarelayat/Desktop/safebox/key_files/key.txt
+
+
+
+./bin/safebox --command import --input-file /home/omarelayat/Desktop/safebox/data/data.txt --output-file encrypted.txt --working-dir /home/omarelayat/Desktop/safebox/output/ --shreds 5 --block-size 1024 --key-file /home/omarelayat/Desktop/safebox/key_files/key.txt
+
