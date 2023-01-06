@@ -4,7 +4,7 @@ SafeBox is a Cryptography project aiming to encrypt and decrypt infinitely huge 
 
 ## User Guide
 1. Put your data in the data directory in a .txt file.
-2. Put your current directory in makefile.vars
+2. Put your current directory in makefile.vars.
 3. Enter the appropriate encryption parameters on the linux terminal. Including the number of shreds needed, the block size, the key file directory,.... etc. 
 
 Example:
